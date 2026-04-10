@@ -5,3 +5,4 @@ bool online
 string category
 bool activated
 string level
+uint8 color
